@@ -42,6 +42,14 @@ $ python snake.py
 
 A pygame window with the title ‘SNAKE’ should pop up. The snake starts as a green block of size 1. Press the up, down, left, or right arrow key to begin moving the snake. Once the snake is moving, it cannot be stopped. Direct the snake to the purple block, which is the food. 
 
+### Virtual Env
+```
+$ python3 -m venv env
+$ source env/bin/activate
+$ pip install -r requirements.txt
+$ python3 snakey.pt
+```
+
 ## Author
 
 **Laura Kocubinski** [laurakoco](https://github.com/laurakoco)

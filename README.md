@@ -47,7 +47,7 @@ A pygame window with the title ‘SNAKE’ should pop up. The snake starts as a 
 $ python3 -m venv env
 $ source env/bin/activate
 $ pip install -r requirements.txt
-$ python3 snakey.pt
+$ python3 snake.py
 ```
 
 ## Author
